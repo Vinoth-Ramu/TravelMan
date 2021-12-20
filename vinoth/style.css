@@ -1,0 +1,98 @@
+body {
+    background-image: url('image.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 1366px;
+    max-height: 768px;
+}
+
+ul {
+    margin-left: 11cm;
+}
+
+li {
+    display: inline;
+    width: 150px;
+    padding-left: 30px;
+}
+
+nav {
+    text-align: center;
+    font-family:'Segoe UI';
+    font-size: 15px;
+    margin-top: 15px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    
+}
+
+.navbar-brand {
+    float: left;
+    margin-top: -5px;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+.profile-btn {
+    width: 3cm;
+    height: 1cm;
+    background-color: dodgerblue;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    border-radius: 5px;
+    float: inline-start;
+    border: none;
+    margin-left: 8cm;
+}
+.get-app {
+    width: 3cm;
+    height: 1cm;
+    background-color: rgb(0, 182, 15);
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    border-radius: 5px;
+    float: inline-end;
+    border: none;
+    margin-left: 10px;
+}
+
+.content {
+    text-align: center;
+    color: white;
+    margin-top: 4cm;
+}
+
+.travel {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.final {
+    font-size: 100px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    margin-top: -30px;
+}
+
+.journey {
+    font-size: 100px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    margin-top:-3cm;
+}
+
+.btn {
+    width: 6cm;
+    height: 1.5cm;
+    background-color: rgb(255, 0, 149);
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    margin-top: -2cm;
+}
